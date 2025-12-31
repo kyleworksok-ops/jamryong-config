@@ -1,11 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2025-12-31T22:00:00+09:00",
+  "updatedAt": "2025-12-31",
   "coupons": [
     {
-      "code": "쿠폰테스트~",
-      "expiresAt": "2026-01-01T04:00:00+09:00",
-      "desc": "TEST 쿠폰"
+      "code": "LOUNGE1220AW",
+      "expiresAt": "2026-03-31",
+      "desc": ""
+    },
+    {
+      "code": "PLAYSTORE1ST",
+      "expiresAt": "2026-03-31",
+      "desc": ""
     }
   ],
   "bosses": [
