@@ -3,16 +3,21 @@
   "updatedAt": "2025-12-31",
   "coupons": [
     {
-  "code": "WELCOMETOAWK",
-  "expiresAt": "2099-12-31",
-  "desc": "보상: 금전 100,000 / 낡은 조화의 상자 5 / 무공 소환권 10 / 영물 소환권 10"
+      "code": "WELCOMETOAWK",
+      "expiresAt": "2099-12-31",
+      "desc": "보상: 금전 100,000 / 낡은 조화의 상자 5 / 무공 소환권 10 / 영물 소환권 10"
     }
   ],
   "bosses": [
     {
-      "id": "boss_1",
-      "name": "보스1",
-      "times": ["12:00", "18:00", "22:00"]
+      "id": "tobul_cheonnyeon_imugi",
+      "name": "토벌전 | 천년 이무기",
+      "times": ["12:00", "15:00", "20:00", "23:00"]
+    },
+    {
+      "id": "mubeop_musin_bogyo_yeonok",
+      "name": "무법 던전 | 무신의 보교 / 연옥",
+      "times": ["13:00", "22:00"]
     }
   ]
 }
