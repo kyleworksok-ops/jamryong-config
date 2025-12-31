@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updatedAt": "2025-12-31T22:00:00+09:00",
+  "coupons": [
+    {
+      "code": "WELCOMETOAWK",
+      "expiresAt": "2026-01-01T04:00:00+09:00",
+      "desc": "Welcome 쿠폰"
+    }
+  ],
+  "bosses": [
+    {
+      "id": "boss_1",
+      "name": "보스1",
+      "times": ["12:00", "18:00", "22:00"]
+    }
+  ]
+}
