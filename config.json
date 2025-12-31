@@ -5,26 +5,17 @@
     {
       "code": "LOUNGE1220AW",
       "expiresAt": "2026-03-31",
-      "rewards": [
-        "금전 50,000"
-      ]
+      "desc": ""
     },
     {
       "code": "PLAYSTORE1ST",
       "expiresAt": "2026-03-31",
-      "rewards": [
-        "금전 50,000"
-      ]
+      "desc": ""
     },
     {
       "code": "WELCOMETOAWK",
       "expiresAt": "2099-12-31",
-      "rewards": [
-        "금전 100,000",
-        "낡은 조화의 상자 5",
-        "무공 소환권 10",
-        "영물 소환권 10"
-      ]
+      "desc": "보상: 금전 100,000 / 낡은 조화의 상자 5 / 무공 소환권 10 / 영물 소환권 10"
     }
   ],
   "bosses": [
